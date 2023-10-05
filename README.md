@@ -1,3 +1,6 @@
+# Web Application Preview
+![image](https://github.com/Jevonzz/GPT3-ReactJS/assets/109259972/a7e4c36c-c168-4dd1-a7e4-ac36b5aca1e3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
